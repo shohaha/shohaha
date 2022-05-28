@@ -1,8 +1,8 @@
 ## Hi there 👋🏾
 #### My name is Sho 🙋🏾‍♀️
 
-🫧 By day I’m a Data Analyst in Supply Chain <br>
-💥 By night I’m a Data Analytics and Visualisation bootcamp student <br>
+🫧 By day I’m a **Data Analyst** in Supply Chain <br>
+💥 By night I’m a **Data Analytics and Visualisation** bootcamp student <br>
 👩🏾‍💻 I enjoy exploring different technologies, learning to code and… <br>
 🌱 Being a plant mum to a fairly large collection of indoor plants <br>
 
