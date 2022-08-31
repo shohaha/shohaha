@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾</h1>
-<p align="center">📍🇬🇧 <br> <br> I'm <b>Shola.</b> <br><br> <b>Data Analyst</b> working in Supply Chain. <br><br> Passionate about sharing <b>interactive  user-friendly Data Visualisations.</b> <br><br> Currently completing Data Visualisation and Analytics Bootcamp at <br>the University of Birmingham as I aspire <b>to continuously share projects while I develop my skill set. <br><br>🌱 🚀 👩🏾‍💻 📚</p>
+<p align="center">📍🇬🇧 <br> <br> I'm <b>Shola.</b> <br><br> <b>Data Analyst</b> working in Supply Chain. <br><br> Recently completed a <b>Data Visualisation and Analytics Bootcamp at the University of Birmingham</b> where I discovered new passions related to <b>data visualisations, web design and data science</b> -- all of which real motivation for me to continue my studies and complete new projects. <br><br>🌱 🚀 👩🏾‍💻 📚</p>
 
 <br>
 
